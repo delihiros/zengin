@@ -1,3 +1,5 @@
+This project has been moved to https://github.com/zengin-code/zengin-rs
+
 The Rust library for Zengin Code.
 
 # Installation
